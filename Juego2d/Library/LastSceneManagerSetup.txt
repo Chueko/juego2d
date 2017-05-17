@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Prueba2.0Saltando.unity
+  isLoaded: 1
+  isActive: 1
