@@ -1,6 +1,12 @@
 # juego2d
 
-- Juego 2d 
-- Re manija con lo vago
+asnjkdnsajkdnsaj- Juego 2d 
+- Re manija con 
+asd
+sad
+asdsadnsalo vago
+
+
+
 - Cambie la manija
 - Holi
