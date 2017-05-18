@@ -1,10 +1,7 @@
 # juego2d
 
-asnjkdnsajkdnsaj- Juego 2d 
+- Juego 2d 
 - Re manija con 
-asd
-sad
-asdsadnsalo vago
 
 
 
